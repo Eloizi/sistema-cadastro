@@ -3,5 +3,5 @@
 Para rodar na sua máquina digite:
 
 ```
-npm intall 
+node app.js
 ```
